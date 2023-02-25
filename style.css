@@ -13,7 +13,7 @@ h2 {
     margin-bottom: 5px;
     font-size: 20px;
     text-align: left;
-    color: blueviolet
+    color: blueviolet;
   }
   
 img {
@@ -29,14 +29,12 @@ ol {
 
 table {
     display: table;
-    background-color: #397239;
-    border-collapse: collapse;
     border-color: 1px solid black;
     border-spacing: 2px;
 }
 
 th {
-    color:red;
+    color: blueviolet;
   }
     
   
