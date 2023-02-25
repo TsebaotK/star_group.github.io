@@ -1,29 +1,42 @@
 h1 {
     margin-bottom: 15px;
     font-size: 60px;
-    color: white;
+    color: whitesmoke;
     text-align: center;
     text-decoration: underline;
-    background-color: black;
+    background-color: rgb(44, 38, 133);
  
   }
   
- h2 {
+h2 {
     margin-top: 15px;
     margin-bottom: 5px;
     font-size: 20px;
     text-align: left;
- 
+    color: blueviolet
   }
   
-  img {
+img {
     margin-left: auto;
     margin-right: auto;
     display: block;
   }
 
-  ol {
+ol {
     text-align: left;
     font-size: 15px;
-    list-style-position: inside;
   }
+
+table {
+    display: table;
+    background-color: #397239;
+    border-collapse: collapse;
+    border-color: 1px solid black;
+    border-spacing: 2px;
+}
+
+th {
+    color:red;
+  }
+    
+  
