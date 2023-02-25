@@ -1,12 +1,23 @@
+
+
+
+body {
+  background: hsl(45, 4%, 82%);
+}
+
+.header {
+  background-color: rgb(38, 122, 133);
+}
+
 h1 {
-    margin-bottom: 15px;
     font-size: 60px;
     color: whitesmoke;
     text-align: center;
     text-decoration: underline;
-    background-color: rgb(44, 38, 133);
- 
-  }
+    background-color: rgb(38, 122, 133);
+    text-align: center;
+    padding: 30px;
+   }
   
 h2 {
     margin-top: 15px;
@@ -30,7 +41,7 @@ ol {
 table {
     display: table;
     border-color: 1px solid black;
-    border-spacing: 2px;
+    border-spacing: 2px;    
 }
 
 th {
@@ -38,7 +49,7 @@ th {
   }
 
 caption {
-    font-size: 15px;
+    font-size: 20px;
     color: blueviolet
 }    
-  
+
