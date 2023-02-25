@@ -13,7 +13,7 @@ h2 {
     margin-bottom: 5px;
     font-size: 20px;
     text-align: left;
-    color: blueviolet;
+    color: blueviolet
   }
   
 img {
@@ -34,7 +34,11 @@ table {
 }
 
 th {
-    color: blueviolet;
+  font-weight:bold;
   }
-    
+
+caption {
+    font-size: 15px;
+    color: blueviolet
+}    
   
